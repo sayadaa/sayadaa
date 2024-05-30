@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I am Sayada
+
+**I'm working on a EdTech project
+**I'm learning Python, React.js, and SQL
+**💬 Ask me about origami, documentaries, or sci-fi movies
+**⚡ Fun fact: I love spicy food
+
+Connect with me! 
+
+![image]({(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)})
+
 
 <!--
 **sayadaa/sayadaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
