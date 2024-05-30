@@ -13,7 +13,7 @@ Connect with me!
 </a>
 
 <a href="https://www.linkedin.com/in/sayadaa">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
 </a>
 <!--
 **sayadaa/sayadaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
