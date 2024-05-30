@@ -1,9 +1,9 @@
 ## Hi there 👋 I am Sayada
 
-*🔭 I'm working on an EdTech project
-*🌱 I'm learning Python, React.js, and SQL
-*💬 Ask me about origami, documentaries, or sci-fi movies
-*⚡ Fun fact: I love spicy food
+* 🔭 I'm working on an EdTech project
+* 🌱 I'm learning Python, React.js, and SQL
+* 💬 Ask me about origami, documentaries, or sci-fi movies
+* ⚡ Fun fact: I love spicy food
 
 Connect with me! 
 
