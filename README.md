@@ -9,6 +9,9 @@ Connect with me!
 
 ![image]({(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)})
 
+![https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://www.instagram.com/sayadaa_/)
+
+
 
 <!--
 **sayadaa/sayadaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
