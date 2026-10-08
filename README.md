@@ -1,7 +1,6 @@
 ## Hi there 👋 I am Sayada
 
-* 🔭 I'm currently working on an EdTech project
-* 🌱 I'm learning Python, React.js, and SQL
+* 🔭 I'm currently building Stash
 * 💬 Ask me about origami, documentaries, or sci-fi movies
 * ⚡ Fun fact: I love spicy food
 
